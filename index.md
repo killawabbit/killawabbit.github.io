@@ -1,3 +1,6 @@
+---
+null
+---
 ## Welcome to Killawabbit's Pages
 
 My name is Henrik, but you may call me Killwabbit as my developer alias. I live in Gothenburg in Sweden with my betrothed and our two sons. Time and family with kids is precious so things here will have to move slow, but I hope to be able to keep it up without to much time away.
