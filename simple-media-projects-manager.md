@@ -1,0 +1,2 @@
+## Simple Media Projects Manager
+This is an project based around using features of wordpress to manage media projects for semi-professional teams who do smaller productions in media, like a YouTube video, a podcast episode and so on. Nothing for proffesionals in the media buisness, but more aimed at those who do media in teams and need a way to organise the projects and tasks in an ordered fashion.
