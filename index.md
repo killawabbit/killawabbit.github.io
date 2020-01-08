@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Killawabbit's Pages
 
-You can use the [editor on GitHub](https://github.com/killawabbit/killawabbit.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Henrik, but you may call me Killwabbit as my developer alias. I live in Gothenburg in Sweden with my betrothed and our two sons. Time and family with kids is precious so things here will have to move slow, but I hope to be able to keep it up without to much time away.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Development
+I'm mainly interested in web development, and I use [Wordpress](http://www.wordpress.org) as CMS which I've done for many years without digging very deep into the possibilities of features it brings for customisation.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/killawabbit/killawabbit.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+So, now my next endeavour is to work with post types, taxonomies and custom fields in Wordpress to make a custom [Simple Media Projects Manager](simple-media-projects-manager.md). It may happen to become a Wordpress plugin development project which I've started researching and tinkering with or just a few code snippets dependent on other projects and/or other plugins. For now I will just assemble links to different resources and reference, while I'm getting towards my understanding of how to do what I intend to accomplish.
